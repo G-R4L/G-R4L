@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Gerald, the developer behind **EraldHQ** — a foundational tech base and laboratory for research, development, and innovation in digital technology.
 
 <!--
 **G-R4L/G-R4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
